@@ -12,3 +12,5 @@ This is the material (code and presentation slide decks) that correspond to the 
     * [Part 3: Successors of Peano](https://www.youtube.com/playlist?list=PLHxtyCq_WDLXrHwcaay14-4FXdzQBIMGx)
     * [Epilogue](https://www.youtube.com/playlist?list=PLHxtyCq_WDLVQPzEm3igPiYOR68HQcMZT)
     * [Bonus Video: AlexFest: Daniel Rose - What's Past is Prologue](https://www.youtube.com/watch?v=rm-4_kVucaE)
+
+![image](https://github.com/user-attachments/assets/24713a43-d32b-4764-9a05-122cbcfc7131)
