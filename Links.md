@@ -68,19 +68,33 @@
 
 ### Chapter 12/11 (Mar 24, 2025)
 
-https://www.elementsofprogramming.com/
-https://github.com/codereport/FM2GP-2025/blob/main/READINGS.md
-https://www.youtube.com/@A9Videos/playlists
-https://adspthepodcast.com/2024/10/04/Episode-202.html
-https://adspthepodcast.com/tags/#Sean+Parent
-https://www.youtube.com/watch?v=fanm5y00joc
-https://github.com/gcc-mirror/gcc/blob/99ec0eb32a03506142f30c158276b4131aa73fe8/libstdc%2B%2B-v3/include/bits/stl_tempbuf.h#L123-L157
-https://github.com/gcc-mirror/gcc/blob/master/libstdc%2B%2B-v3/include/bits/stl_tempbuf.h#L123-L157
-https://queue.acm.org/detail.cfm?id=1531242
-https://embedded.fm/episodes/316-repeat?form=MG0AV3
-https://www.youtube.com/watch?v=tWvaSkgVPpA
-https://www.youtube.com/watch?v=JxRLX4VGuYg
-https://open.spotify.com/show/7t8C1tRA8EKaIguBMvBS4J?si=74cc06bcc05b458d
-https://darknetdiaries.com/
-https://www.roc-lang.org/
-https://exercism.org/tracks/roc
+* https://www.elementsofprogramming.com/
+* https://github.com/codereport/FM2GP-2025/blob/main/READINGS.md
+* https://www.youtube.com/@A9Videos/playlists
+* https://adspthepodcast.com/2024/10/04/Episode-202.html
+* https://adspthepodcast.com/tags/#Sean+Parent
+* https://www.youtube.com/watch?v=fanm5y00joc
+* https://github.com/gcc-mirror/gcc/blob/99ec0eb32a03506142f30c158276b4131aa73fe8/libstdc%2B%2B-v3/include/bits/stl_tempbuf.h#L123-L157
+* https://github.com/gcc-mirror/gcc/blob/master/libstdc%2B%2B-v3/include/bits/stl_tempbuf.h#L123-L157
+* https://queue.acm.org/detail.cfm?id=1531242
+* https://embedded.fm/episodes/316-repeat?form=MG0AV3
+* https://www.youtube.com/watch?v=tWvaSkgVPpA
+* https://www.youtube.com/watch?v=JxRLX4VGuYg
+* https://open.spotify.com/show/7t8C1tRA8EKaIguBMvBS4J?si=74cc06bcc05b458d
+* https://darknetdiaries.com/
+* https://www.roc-lang.org/
+* https://exercism.org/tracks/roc
+
+### Chapter 14/10 (Mar 31, 2025)
+
+* https://www.youtube.com/watch?v=Vh3y1ela-_s
+* https://www.stepanovpapers.com/Journeys/SetTheoryLogic.pdf
+* https://archive.org/details/AndreiAlexandrescuKeynoteBoostcon2009
+* https://en.wikipedia.org/wiki/Structural_type_system
+* https://www.youtube.com/watch?v=95uT0RhMGwA
+* https://hoogletranslate.com/
+* https://github.com/codereport/array-language-comparisons/blob/main/Iversonian_vs_Array.md
+* https://www.youtube.com/watch?v=I52uPJSoAT4
+* https://www.youtube.com/watch?v=tc9CDdJmoWE
+* https://wiki.haskell.org/Curry-Howard-Lambek_correspondence
+* https://ncatlab.org/nlab/show/computational+trilog
