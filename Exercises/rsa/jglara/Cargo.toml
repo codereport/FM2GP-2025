@@ -1,0 +1,26 @@
+[package]
+name = "rsa_toolkit"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+num-bigint = { version = "0.4.0", features = ["rand"] }
+rand = "0.8.0"
+num-traits = "0.2.14"
+anyhow = "1.0.97"
+clap = { version = "4", features = ["derive"]}
+serde = { version = "1.0", features = ["derive"]}
+serde_json = "1.0"
+
+
+[[bin]]
+name = "rsa_keygen"
+path = "src/rsa_keygen.rs"
+
+[[bin]]
+name = "rsa_encrypt"
+path = "src/rsa_encrypt.rs"
+
+[[bin]]
+name = "rsa_decrypt"
+path = "src/rsa_decrypt.rs"
