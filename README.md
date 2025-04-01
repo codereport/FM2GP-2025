@@ -14,4 +14,4 @@ This is the material (code and presentation slide decks) that correspond to the 
     * [Epilogue](https://www.youtube.com/playlist?list=PLHxtyCq_WDLVQPzEm3igPiYOR68HQcMZT)
     * [Bonus Video: AlexFest: Daniel Rose - What's Past is Prologue](https://www.youtube.com/watch?v=rm-4_kVucaE)
 
-![image](https://github.com/user-attachments/assets/24713a43-d32b-4764-9a05-122cbcfc7131)
+![image](https://github.com/user-attachments/assets/cface06b-0abc-493f-8b69-19f250ad52b7)
